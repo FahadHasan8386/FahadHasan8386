@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fahad Hasan
 - 👀 I’m interested in Deep Learning about Programing.
-- 🌱 I’m currently learning Web Learning.
+- 🌱 I’m currently learning CP.
 - 📫 How to reach me hasan.fahad67@outlook.com.
 - ⚡ Fun fact: Games,Photography.
 
