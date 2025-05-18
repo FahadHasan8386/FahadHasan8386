@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **C++, C#, Java, and GUI development**
 
-- 📫 Reach me at **hsaan.fahad67@outlook.com**
+- 📫 Reach me at **hasan.fahad67@outlook.com**
 
 - 👨‍💻 All of my work is available at [My GitHub](https://github.com/FahadHasan8386)
 
