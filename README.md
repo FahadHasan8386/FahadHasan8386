@@ -320,32 +320,7 @@ flowchart LR
 
 ---
 
-## 🏆 LIVE STATS
 
-<div align="center">
-
-**Competitive programming (live from the sites)**
-
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dfahadhasan&query=%24.result%5B0%5D.rating&label=CF%20rating&style=for-the-badge&color=1F8ACB&logo=codeforces&logoColor=white" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dfahadhasan&query=%24.result%5B0%5D.maxRating&label=CF%20max&style=for-the-badge&color=a78bfa&logo=codeforces&logoColor=white" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dfahadhasan&query=%24.result%5B0%5D.rank&label=CF%20rank&style=for-the-badge&color=f472b6&logo=codeforces&logoColor=white" />
-
-<br/><br/>
-
-<img src="https://leetcard.jacoblin.cool/FahadHasan8386?theme=dark&font=Karla&ext=heatmap" width="95%" />
-
-<br/><br/>
-
-**GitHub (live)**
-
-<img src="https://github-readme-stats.vercel.app/api?username=FahadHasan8386&show_icons=true&hide_border=false&bg_color=0b1020&title_color=22d3ee&text_color=e2e8f0&icon_color=a78bfa&border_color=a78bfa&rank_icon=github" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=FahadHasan8386&layout=compact&hide_border=false&bg_color=0b1020&title_color=f472b6&text_color=e2e8f0&border_color=f472b6" height="170" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FahadHasan8386&background=0b1020&border=a78bfa&ring=22d3ee&fire=f472b6&currStreakLabel=22d3ee&currStreakNum=e2e8f0&sideLabels=a78bfa&sideNums=e2e8f0&dates=94a3b8" height="150" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FahadHasan8386&bg_color=0b1020&color=22d3ee&line=a78bfa&point=f472b6&area=true&area_color=a78bfa&hide_border=true" width="95%" />
-
-<br/>
 
 **🏆 Trophies (live)**
 
