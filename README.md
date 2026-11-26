@@ -22,14 +22,17 @@
 <a href="mailto:hasan.fahad67@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
 <a href="https://leetcode.com/u/FahadHasan8386/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="https://codeforces.com/profile/fahadhasan"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+<img src="https://img.shields.io/github/followers/FahadHasan8386?style=for-the-badge&logo=github&label=Followers&color=a78bfa&labelColor=0b1020" />
 
-<img src="https://komarev.com/ghpvc/?username=FahadHasan8386&label=VISITORS&color=a78bfa&labelColor=0b1020&style=flat-square" />
+<br/>
+
+**[🎮 About](#-about-me) · [💻 Code](#-fahad-as-code) · [🧰 Skills](#-skill-tree) · [🛰️ Missions](#%EF%B8%8F-mission-log) · [🏆 Live Stats](#-live-stats) · [📡 Contact](#-open-channel)**
 
 </div>
 
 ---
 
-## 🎮 PLAYER CARD
+## 🎮 ABOUT ME
 
 ```text
 ┌───────────────────────────────────────────────────────────┐
@@ -41,17 +44,103 @@
 └───────────────────────────────────────────────────────────┘
 ```
 
-| Stat | Level | Power | Loadout |
-|:--|:--|:--|:--|
-| 🧠 **Algorithms** | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 | `19/20` | 1,000+ solved · ICPC 2024 |
-| ⚙️ **C# / .NET** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦⬛ | `18/20` | .NET 8 / 10 · ASP.NET Core |
-| 🏛️ **Architecture** | 🟪🟪🟪🟪🟪🟪🟪🟪🟪⬛ | `17/20` | Clean · CQRS · SOLID |
-| 🗄️ **Databases** | 🟧🟧🟧🟧🟧🟧🟧🟧⬛⬛ | `16/20` | SQL Server · PostgreSQL · MySQL |
-| 🎨 **Frontend** | 🟨🟨🟨🟨🟨🟨🟨⬛⬛⬛ | `14/20` | Blazor · React · Next.js |
-| 📡 **IoT / Hardware** | 🟥🟥🟥🟥🟥🟥🟥⬛⬛⬛ | `13/20` | ESP32 · Arduino · sensors |
-| 🤖 **Local AI** | 🟫🟫🟫🟫🟫🟫🟫⬛⬛⬛ | `13/20` | Ollama · MCP · Llama 3.2 |
+| | Loadout |
+|:--|:--|
+| 🟩 **Backend** | C# · .NET 8 / 10 · ASP.NET Core Web API · Clean Architecture · CQRS & MediatR · SOLID |
+| 🟦 **Frontend** | Blazor WASM · React · Next.js · Tailwind CSS |
+| 🟧 **Data** | SQL Server · PostgreSQL · MySQL · Dapper · EF Core |
+| 🟥 **IoT & AI** | ESP32 · Arduino · Ollama & Local LLMs · MCP |
+| 🟪 **Tools** | Docker · Git · Linux |
 
-<sub>Bars are a fun self-rating, not a formal score.</sub>
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="85%" />
+
+<sub>↑ a new developer quote on every refresh</sub>
+
+</div>
+
+---
+
+## 💻 FAHAD AS CODE
+
+> Pick a language. Click to open. Same person, different syntax.
+
+<details open>
+<summary><b>🟣 C#</b></summary>
+
+```csharp
+public record Developer(string Name, string[] Stack)
+{
+    public string Mission => "Build resilient systems engineered for scale";
+}
+
+var fahad = new Developer(
+    "Md. Fahad Hasan",
+    new[] { "C#", ".NET 8/10", "Clean Architecture", "CQRS", "React", "Next.js" });
+
+Console.WriteLine(fahad.Mission);
+```
+
+</details>
+
+<details>
+<summary><b>🟡 Python</b></summary>
+
+```python
+fahad = {
+    "name": "Md. Fahad Hasan",
+    "solved": "1,000+ problems",
+    "contests": ["ICPC 2024"],
+    "now": ["NASA Space Apps 2026", "Local LLMs", "IoT"],
+}
+
+print(f"{fahad['name']} builds resilient systems.")
+```
+
+</details>
+
+<details>
+<summary><b>🔵 TypeScript</b></summary>
+
+```ts
+const fahad = {
+  role: "Full-Stack .NET Developer",
+  loves: ["Clean Architecture", "CQRS", "SOLID"],
+  frontend: ["React", "Next.js", "Blazor"],
+} as const;
+
+console.log(`Hi, I'm ${fahad.role} 👋`);
+```
+
+</details>
+
+<details>
+<summary><b>🟠 SQL</b></summary>
+
+```sql
+SELECT skill
+FROM   fahad.stack
+WHERE  category IN ('Backend', 'Frontend', 'Data', 'IoT', 'AI')
+ORDER  BY curiosity DESC;
+```
+
+</details>
+
+<details>
+<summary><b>⚫ Bash</b></summary>
+
+```bash
+$ whoami
+fahad
+
+$ ./build.sh --resilient --scalable --multi-tenant
+[ok] BuildFlow    shipped
+[ok] AtmoSync     streaming sensor data
+[ok] Local LLM    running offline
+```
+
+</details>
 
 ---
 
@@ -61,7 +150,7 @@
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,tailwind,postgres,mysql,python,fastapi,vite,arduino,docker,git,linux&perline=7" />
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/Blazor_WASM-512BD4?style=flat-square&logo=blazor&logoColor=white" />
@@ -69,7 +158,7 @@
 <img src="https://img.shields.io/badge/Dapper-1E88E5?style=flat-square" />
 <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/CQRS_%26_MediatR-FF4B4B?style=flat-square" />
-<img src="https://img.shields.io/badge/Clean_Architecture-22d3ee?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/Clean_Architecture-22d3ee?style=flat-square" />
 <img src="https://img.shields.io/badge/Ollama-f472b6?style=flat-square" />
 <img src="https://img.shields.io/badge/ESP32-00979D?style=flat-square&logo=arduino&logoColor=white" />
 
@@ -231,9 +320,23 @@ flowchart LR
 
 ---
 
-## 📊 LIVE STATS
+## 🏆 LIVE STATS
 
 <div align="center">
+
+**Competitive programming (live from the sites)**
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dfahadhasan&query=%24.result%5B0%5D.rating&label=CF%20rating&style=for-the-badge&color=1F8ACB&logo=codeforces&logoColor=white" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dfahadhasan&query=%24.result%5B0%5D.maxRating&label=CF%20max&style=for-the-badge&color=a78bfa&logo=codeforces&logoColor=white" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dfahadhasan&query=%24.result%5B0%5D.rank&label=CF%20rank&style=for-the-badge&color=f472b6&logo=codeforces&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://leetcard.jacoblin.cool/FahadHasan8386?theme=dark&font=Karla&ext=heatmap" width="95%" />
+
+<br/><br/>
+
+**GitHub (live)**
 
 <img src="https://github-readme-stats.vercel.app/api?username=FahadHasan8386&show_icons=true&hide_border=false&bg_color=0b1020&title_color=22d3ee&text_color=e2e8f0&icon_color=a78bfa&border_color=a78bfa&rank_icon=github" height="170" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FahadHasan8386&layout=compact&hide_border=false&bg_color=0b1020&title_color=f472b6&text_color=e2e8f0&border_color=f472b6" height="170" />
@@ -241,6 +344,12 @@ flowchart LR
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahadHasan8386&background=0b1020&border=a78bfa&ring=22d3ee&fire=f472b6&currStreakLabel=22d3ee&currStreakNum=e2e8f0&sideLabels=a78bfa&sideNums=e2e8f0&dates=94a3b8" height="150" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FahadHasan8386&bg_color=0b1020&color=22d3ee&line=a78bfa&point=f472b6&area=true&area_color=a78bfa&hide_border=true" width="95%" />
+
+<br/>
+
+**🏆 Trophies (live)**
+
+<img src="https://github-profile-trophy.vercel.app/?username=FahadHasan8386&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7" width="95%" />
 
 </div>
 
